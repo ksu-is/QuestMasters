@@ -1,6 +1,6 @@
-- [ ] **Setup**
-  - [ ] Create a project repository.
-  - [ ] Set up the development environment.
+- [X] **Setup**
+  - [X] Create a project repository.
+  - [X] Set up the development environment.
 
 - [ ] **Development**
   - [ ] Implement game world generation.
@@ -12,7 +12,7 @@
   - [ ] Develop an AI assistant for DMs.
 
 - [ ] **Documentation**
-  - [ ] Write a comprehensive README.
+  - [X] Write a comprehensive README.
   - [ ] Provide in-code comments and documentation.
 
 - [ ] **Testing and Debugging**
