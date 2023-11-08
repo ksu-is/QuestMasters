@@ -1,0 +1,53 @@
+# Project Roadmap
+
+- [ ] **Environment Setup**
+   - Set up a Python development environment.
+   - Create a GitHub repository for the project.
+
+- [ ] **World Generation**
+   - Develop a basic world generation function.
+   - Generate and display a simple game world.
+
+- [ ] **Interactive Storytelling**
+   - Create a text-based interaction system.
+   - Generate responses to player inputs dynamically.
+
+- [ ] **AI-Enhanced NPCs**
+   - Develop a generative system for NPCs with dialogues.
+   - Make NPCs respond to player choices using AI.
+
+- [ ] **Quest Generation**
+   - Build a generative quest system.
+   - Display dynamically generated quests.
+
+- [ ] **Combat and Encounter AI**
+   - Implement generative combat encounters.
+   - Define enemy characteristics and player actions.
+
+- [ ] **Visual Aids**
+   - Develop a basic graphical interface with dynamic maps and tokens.
+   - Display the game world using a generative UI.
+
+- [ ] **Rules Assistance**
+   - Create a generative system for rule clarifications.
+   - Handle dice rolls and rule interpretations dynamically.
+
+- [ ] **Player Progression**
+   - Implement a generative character progression system with experience points.
+   - Track character stats and show dynamic progress.
+
+- [ ] **AI DM's Assistant**
+   - Develop a generative assistant for DMs to create adventures.
+   - Generate NPCs, story elements, and quests on-the-fly.
+
+- [ ] **Documentation**
+   - Write a README explaining the project and setup.
+   - Provide comments and documentation within the code.
+
+- [ ] **Testing and Debugging**
+   - Test the project thoroughly to identify and fix issues.
+   - Debug and refine the project as necessary.
+
+- [ ] **Finalizing and Sharing**
+   - Prepare the project for submission or presentation.
+   - Share the project with classmates or instructors for feedback.
