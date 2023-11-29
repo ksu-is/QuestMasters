@@ -5,6 +5,8 @@
 - [X] **Development**
   - [X] Implement game world generation.
   - [X] Create interactive storytelling features.
+  - [X] Build a quest generation system.
+  - [X] Implement visual aids and UI.
 
 - [X] **Documentation**
   - [X] Write a comprehensive README.
@@ -14,6 +16,6 @@
   - [X] Thoroughly test the project for issues.
   - [X] Debug and refine as needed.
 
-- [ ] **Finalizing and Sharing**
-  - [ ] Prepare the project for presentation or sharing.
-  - [ ] Engage the TRPG community and gather feedback.
+- [X] **Finalizing and Sharing**
+  - [X] Prepare the project for presentation or sharing.
+  - [X] Engage the TRPG community and gather feedback.

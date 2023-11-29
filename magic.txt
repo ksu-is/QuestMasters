@@ -1,0 +1,5 @@
+wooden staff, 10,
+iron staff, 15,
+diamond staff, 20,
+obsidian staff, 30,
+infused elder staff, 50,
