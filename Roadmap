@@ -6,7 +6,12 @@
   - [X] Implement game world generation.
   - [X] Create interactive storytelling features.
   - [X] Build a quest generation system.
-  - [X] Implement visual aids and UI.
+
+
+- [X] **Cosmetics & Ideas**
+  - [X] Implement ASCII Art
+  - [X] Implement Multiple Routes for storylines
+  - [X] Implement Modular block system to allow additions and changes to mechanics
 
 - [X] **Documentation**
   - [X] Write a comprehensive README.
